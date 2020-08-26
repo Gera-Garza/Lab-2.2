@@ -1,0 +1,15 @@
+.container{
+	float: left;
+
+}
+.section-container{
+	float: left;
+	margin-left: 300px;
+}
+footer{
+ text-align: center;
+ color : white;
+  padding: 1px;
+background-color: black;
+  clear: both;
+}
